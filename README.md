@@ -13,3 +13,14 @@
     <img src="https://skillicons.dev/icons?i=js,html,firebase,flask,gamemakerstudio,nodejs,react,sass,figma,py&perline=5" />
   </a>
 </p>
+
+<h2 align="center">Contact Me</h2>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/luan-n-ferreira-004825159/">
+   <img src="https://skillicons.dev/icons?i=linkedin" />
+ </>
+ <a href="https://www.instagram.com/luannofe/">
+   <img src="https://skillicons.dev/icons?i=instagram" />
+ </>
+</p>
