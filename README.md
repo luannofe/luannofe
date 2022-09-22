@@ -5,9 +5,9 @@
 
 
 
-
+<h2 align="center">Fullstack Developer</h2>
 <p align="center">
- <h2>Fullstack Developer</h2>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,firebase,flask,gamemakerstudio,nodejs,react,sass,figma,py&perline=5" />
   </a>
