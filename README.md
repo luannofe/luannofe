@@ -4,4 +4,4 @@
 
 ## Fullstack Developer
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,flask,gamemakerstudio,nodejs,react,sass,figma,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,flask,gamemakerstudio,nodejs,react,sass,figma,py&perline=5)](https://skillicons.dev)
