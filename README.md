@@ -1,10 +1,9 @@
 ![Alt text](BannerGithub.png?raw=true "BannerLuannofe")
-
+<p align="center">
 ### Hi! My name is Luan Nobrega  and I'm obsessed with creating things.
 
 ## Fullstack Developer
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,firebase,flask,gamemakerstudio,nodejs,react,sass,figma,py&perline=5)](https://skillicons.dev)
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
