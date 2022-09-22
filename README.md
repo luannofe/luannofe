@@ -1,9 +1,9 @@
 ![Alt text](BannerGithub.png?raw=true "BannerLuannofe")
 <p align="center">
- <h1> Hi! My name is Luan Nobrega  and I'm obsessed with creating things. </h1>
+ <h2> Hi! My name is Luan Nobrega  and I'm obsessed with creating things. </h2>
 </p>
 
-## Fullstack Developer
+>Fullstack Developer
 
 
 <p align="center">
