@@ -1,7 +1,7 @@
 <p align="center">
  <img src="Dog.jpg" />
 </p>
- <h3 align="center"> Hi! My name is Luan Nobrega  and I'm obsessed with creating things. </h2>
+ <h3 align="center"> Hi! My name is Luan Nobrega  and I'm good enough to make your app and use this dog picture. </h2>
 
 
 
