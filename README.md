@@ -1,5 +1,5 @@
 <p align="center">
- <img src="BannerGithub.png" />
+ <img src="Dog.jpg" />
 </p>
  <h3 align="center"> Hi! My name is Luan Nobrega  and I'm obsessed with creating things. </h2>
 
