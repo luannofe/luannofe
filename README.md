@@ -1,16 +1,15 @@
 <p align="center">
  <img src="Dog.jpg" />
 </p>
- <h3 align="center"> Hi! My name is Luan Nobrega  and I'm good enough to make your app and use this dog picture. </h2>
 
 
 
 
-<h2 align="center">Web Developer</h2>
+<h2 align="center">Software Engineer</h2>
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,nextjs,ts,prisma,nodejs,react,sqlite,figma,postgres&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nextjs,ts,prisma,nodejs,react,sqlite,figma,postgres,ffmpeg,redux&perline=5" />
   </a>
 </p>
 
