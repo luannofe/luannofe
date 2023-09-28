@@ -1,8 +1,6 @@
-<p align="center">
- Hi. Im Luan Nobrega.
- </p>
-<p align="center">
+<h2 align="center">Hi. Im Luan Nobrega.</h2>
 
+<p>
  <img src="Dog.jpg" />
 </p>
 
