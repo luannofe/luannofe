@@ -9,9 +9,8 @@
 
 <h2 align="center">Software Engineer</h2>
 <p align="center">
-
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,nextjs,ts,prisma,nodejs,react,sqlite,figma,postgres,ffmpeg,redux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nextjs,ts,prisma,nodejs,react,sqlite,redux,postgres,ffmpeg,figma&perline=3" />
   </a>
 </p>
 
